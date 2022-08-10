@@ -4,8 +4,6 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 ## Issue ticket number and link
 
-## Type of change
-
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
