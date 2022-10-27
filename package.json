@@ -22,5 +22,5 @@
     "template": "changelog-template.hbs",
     "unreleased": true,
     "commitLimit": false
-  },
+  }
 }
