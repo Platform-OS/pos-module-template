@@ -13,3 +13,9 @@ List of hooks provided and/or implemented by the module
 ## Examples
 
 Code examples
+
+## Versioning
+
+```
+npm version major | minor | patch
+```
