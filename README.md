@@ -17,5 +17,6 @@ Code examples
 ## Versioning
 
 ```
+git fetch origin --tags
 npm version major | minor | patch
 ```
